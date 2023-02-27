@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio Alexsandro</h1>
 <h3 align="center">A passionate FullStack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **JavaScript, MongoDB, NodeJS, HTML5, CSS3, EJS, GIT, EXPRESS, TYPESCRIPT AND REACT.**
+- 🌱 I’m currently learning **JavaScript, MongoDB, NodeJS, HTML5, CSS3, EJS, GIT, EXPRESS AND REACT.**
 
 - 📫 How to reach me **linkedin:https://www.linkedin.com/in/sergio-alexsandro/ or by email:sgp.07adm1@gmail.com**
 
